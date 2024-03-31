@@ -1,4 +1,4 @@
-"# albaloshi-todo-list4" 
+"# albaloshi-todo-list" 
 `simple todo list for cli`
 
-npx albaloshi-todo-list4
+npx albaloshi-todo-list
